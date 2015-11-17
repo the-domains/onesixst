@@ -1,0 +1,23 @@
+name: onesixst
+favicon: null
+layout_spectrum: 0.4929692286532372
+typography_spectrum: 0.9882163538131863
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9263427315745503
+  lightness: 0.6669717978220433
+  saturation: 0.1033125170506537
+  rhythmicContrast: 0.2658440666273236
+purpose: []
